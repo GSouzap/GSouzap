@@ -10,6 +10,6 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-konoha.vstudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:konoha.vstudio@gmail.com)](mailto:konoha.vstudio@gmail.com)
 
-#FOR THE ALLIANCE :lion:
+# FOR THE ALLIANCE :lion:
 
 <img src="https://media.giphy.com/media/xThtapaSPIKplTewg0/giphy.gif"></img>
