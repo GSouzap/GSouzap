@@ -11,4 +11,4 @@ Sou um FullStack Developer :computer:
 [![Gmail Badge](https://img.shields.io/badge/-konoha.vstudio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:konoha.vstudio@gmail.com)](mailto:konoha.vstudio@gmail.com)
 
 #FOR THE ALLIANCE :lion:
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fearlycarelessjackal-for-the-alliance-legion-varian-wow&psig=AOvVaw2LAysYePoXdPezw7bCyeDM&ust=1596669191935000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJio3rXWgusCFQAAAAAdAAAAABAJ"></img>
+<img src="https://media.giphy.com/media/xThtapaSPIKplTewg0/giphy.gif"></img>
