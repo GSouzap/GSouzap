@@ -1,6 +1,6 @@
 # Hello Earthlings :earth_americas:
 
-My name is Gabriel de Souza. I'm a web and mobile front-end developer living in Palmas - Tocantins (Brazil hehe) :eyeglasses:
+My name is Gabriel de Souza. I'm a web and mobile front-end developer at SolarView, living in Palmas - Tocantins (Brazil hehe) :eyeglasses:
 
 <br/> :crystal_ball: &nbsp; Technologies I master: ReactJS, React Native, Django, Typescript, HTML, CSS & GIT;
 <br/> :gem: &nbsp; About me: Graduating in Computer Science and Software Engineering, looking for a job that I value and photograph in my spare time;
