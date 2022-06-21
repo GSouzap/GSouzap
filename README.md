@@ -1,6 +1,6 @@
 # Hello Earthlings :earth_americas:
 
-My name is Gabriel de Souza. I'm a Back-End developer at Dasa, living in Palmas - Tocantins (Brazil hehe) :eyeglasses:
+My name is Gabriel de Souza. I'm a Back-End developer at Riachuelo/Midway, living in Palmas - Tocantins (Brazil hehe) :eyeglasses:
 
 <br/> :crystal_ball: &nbsp; Technologies I master: NodeJS, Typescript, RabbitMQ, Kafka, ElasticStack, Docker, Kubernets, GITFlow and others;
 <br/> :gem: &nbsp; About me: Graduating in Software Engineering and photograph in my spare time;
